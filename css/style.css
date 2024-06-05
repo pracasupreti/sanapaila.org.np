@@ -427,7 +427,7 @@ ul,li{
 
 img{
 	display:inline-block;
-	max-width:150px;
+	max-width:100px;
 }
 
 .preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url("../images/icons/preloader.svg");}
@@ -761,7 +761,7 @@ img{
 .main-header .logo-outer .logo img{
 	position:relative;
 	display:inline-block;
-	max-width:150px;
+	max-width:100px;
 }
 
 .main-header .header-upper .upper-right{
