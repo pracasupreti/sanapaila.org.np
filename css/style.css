@@ -2029,7 +2029,7 @@ img{
 }
 
 .main-slider h2.alternate{
-	font-size:47px;
+	font-size:65px;
 }
 
 .main-slider h2.style-two{
@@ -2563,7 +2563,7 @@ img{
 
 .team-block .inner-box .image img{
 	position:relative;
-	width:100%;
+	max-width: 700px;
 	display:block;
 }
 
