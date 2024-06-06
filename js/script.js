@@ -412,5 +412,3 @@
 
 })(window.jQuery);
 
-const currentYear = new Date().getFullYear();
-console.log(currentYear); // Outputs the current year (e.g., 2024)

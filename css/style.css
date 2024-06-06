@@ -428,6 +428,7 @@ ul,li{
 img{
 	display:inline-block;
 	max-width:100px;
+	margin-left: 48px;
 }
 
 .preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url("../images/icons/preloader.svg");}
@@ -762,6 +763,14 @@ img{
 	position:relative;
 	display:inline-block;
 	max-width:100px;
+	margin-left: 160px;
+}
+
+.main-header .logo-indexpage  .logo img{
+	position:relative;
+	display:inline-block;
+	max-width:100px;
+	margin-left: 160px;
 }
 
 .main-header .header-upper .upper-right{
@@ -1519,6 +1528,7 @@ img{
 
 .social-icon-two{
 	position:relative;
+	margin-left: 50px;
 }
 
 .social-icon-two li{
@@ -2046,7 +2056,7 @@ img{
 }
 
 .main-slider .text.alternate{
-	font-size:18px;
+	font-size:22px;
 }
 
 .main-slider .btns-box .theme-btn{
