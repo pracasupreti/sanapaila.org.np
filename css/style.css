@@ -547,7 +547,9 @@ img{
 .main-header .header-top .top-left .links li a:hover{
 	color:rgba(255,255,255,0.80);
 }
-
+.main-header .header-top .top-right .links li a:hover{
+	color:rgba(255,255,255,0.80);
+}
 .main-header .header-top .top-right{
 	position:relative;
 	float:right;
