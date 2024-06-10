@@ -9420,3 +9420,10 @@ ul,li{
 		}
   
 		/* WhatsApp Float Ends Here    */
+		
+
+		@media(max-width: 1150px){
+			.header-upper{
+				display: none;
+			}
+		}
