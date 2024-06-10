@@ -1714,14 +1714,14 @@ ul,li{
 	position:relative;
 	display:none;
 	width:100%;	
-	background:#202020;
+	background:#ffffff;
 	border-top:1px solid rgba(255,255,255,0.30);
 }
 
 .mobile-menu .nav-header{
 	position:relative;
 	padding:10px 0px;
-	background:#202020;
+	background:#ffffff;
 	line-height:24px;
 	font-size:16px;
 	color:#ffffff;
@@ -1772,8 +1772,8 @@ ul,li{
 	display:block;
 	padding:12px 20px;
 	line-height:22px;
-	color:#ffffff;
-	background:#282828;
+	color:#000000;
+	background:#ffffff;
 	text-align:left;
 	font-size: 14px;
 	font-weight:400;
