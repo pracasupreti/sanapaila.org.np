@@ -5,9 +5,10 @@ sanapaila.org.np
 # Header
 1. Home
 2. About
-3. Events
-4. Gallery
-5. Contact
+3. Team
+4. Events
+5. Gallery
+6. Contact
 
 # Footer
 1. Home
