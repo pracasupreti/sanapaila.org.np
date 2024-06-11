@@ -2571,6 +2571,8 @@ ul,li{
 
 .team-block .inner-box .image{
 	position:relative;
+	display: flex;
+    justify-content: center;
 }
 
 .team-block .inner-box .image img{
