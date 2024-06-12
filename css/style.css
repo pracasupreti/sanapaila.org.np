@@ -499,12 +499,14 @@ ul,li{
 
 .main-header .header-top{
 	position:relative;
+	height: 60px;
 	background-color:#5e8f48;
 }
 
 .main-header .header-top .top-left{
 	position:relative;
 	float:left;
+	margin-top: 8px;
 	padding:18px 0px 18px;
 }
 
