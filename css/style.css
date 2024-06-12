@@ -178,6 +178,15 @@ p,.text{
 	color:#ffffff;
 	font-family: "Flaticon";
 }
+.list-mission li:before{
+	/* position:absolute; */
+	content: '\f1ae';
+	left:0px;
+	top:0px;
+	font-size:16px;
+	color:gray;
+	font-family: "Flaticon";
+}
 
 /*List Style Two*/
 
@@ -1742,6 +1751,12 @@ ul,li{
 	font-size:24px;
 	cursor:pointer;
 }
+.menu-btn{
+	margin-top: 13px;
+    position: absolute;
+    top: 11px;
+    right: 10px;
+}
 
 .mobile-menu .links-outer{
 	position:relative;
@@ -2484,6 +2499,7 @@ ul,li{
 	max-width:630px;
 	z-index:2;
 	padding:90px 15px 80px 70px;
+	/* padding: 90px 26px 79px 40px; */
 }
 
 .fluid-section-one .content-column h2{
@@ -2578,7 +2594,8 @@ ul,li{
 
 .team-block .inner-box .image img{
 	position:relative;
-	max-width: 700px;
+	/* max-width: 700px; */
+	max-width: 228px;
 	display:block;
 }
 
@@ -5520,7 +5537,8 @@ ul,li{
 
 .mission-section-two{
 	position:relative;
-	padding:85px 0px 95px;
+	/* padding:85px 0px 95px; */
+	padding: 35px 42px 35px;
 }
 
 .mission-section-two .content-column{
