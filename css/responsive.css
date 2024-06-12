@@ -112,9 +112,9 @@
 		padding:0px 15px;
 	}
 	
-	.page-title{
+	/* .page-title{
 		padding:80px 0px;
-	}
+	} */
 	
 	.header-style-four .header-lower{
 		background-color:#71b94e;
@@ -295,7 +295,9 @@
 	
 	.fluid-section-one .content-column .inner-column{
 		max-width:100%;
-		padding-left:15px;
+		/* padding-left:15px; */
+		padding-left: 7%;
+        padding-right: 7%;
 		margin-left:0px;
 	}
 	
@@ -909,9 +911,9 @@
 		padding:10px 20px;
 	}	
 	
-	.page-title{
+	/* .page-title{
 		padding:40px 0px;	
-	}
+	} */
 	
 }
 
