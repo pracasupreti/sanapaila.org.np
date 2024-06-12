@@ -1790,7 +1790,8 @@ ul,li{
 	line-height:22px;
 	color:#000000;
 	background:#ffffff;
-	text-align:left;
+	/* text-align:left; */
+	text-align: center;
 	font-size: 14px;
 	font-weight:400;
 	text-transform:capitalize;
